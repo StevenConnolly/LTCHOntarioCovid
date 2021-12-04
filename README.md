@@ -17,15 +17,19 @@ This is the dataset being used for analysis. The file ltccovidsummary.csv can be
 ## Tentative Stages of Project
 
 ### Abstract
-**will be upload for final results**
 Deliverables are contained on numbered folders.
 The abstract briefly describes the research question and methods that are used.
 
 ### Literature Review
-**will be upload for final results**
 The literature review gives a brief description of the data, the problem and the approach taken. References to data analysis similar to that in this repo are also used. 
 
 ### Initial Results
 The intial results help to provide a high level view of the data.
+
+### Final Results
+Changes to dataset to improve results
+
+### Final Report
+Findings of dataset and research
 
 
